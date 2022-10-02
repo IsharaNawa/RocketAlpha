@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Fly In Between.unity
+    path: Assets/Scenes/Platform on the Planet.unity
     guid: 98b2bf9f9a38bbd40b0b377e6bce6488
   - enabled: 1
     path: Assets/Scenes/Planet 1.unity
