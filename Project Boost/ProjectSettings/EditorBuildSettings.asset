@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Planet 1.unity
     guid: 35d65155d8b3cf040809c154fee2d827
+  - enabled: 1
+    path: Assets/Scenes/Up and Down.unity
+    guid: 0ab5f8cf319d87644947a325027fb46a
   m_configObjects: {}
